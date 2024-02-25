@@ -1,1 +1,1 @@
-# Blood Bank Management System : A Database Management System Mini Project
+* Blood Bank Management System : A Database Management System Mini Project
